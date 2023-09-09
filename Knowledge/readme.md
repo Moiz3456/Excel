@@ -1,1 +1,1 @@
-This repository describes my knowledge in this Excel
+This repository describes my knowledge in Excel
